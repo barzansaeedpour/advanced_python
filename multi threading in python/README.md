@@ -9,8 +9,7 @@ This repository provides examples and explanations of multi-threading in Python.
 - [Basic Concepts](#basic-concepts)
 - [Thread Synchronization](#thread-synchronization)
 - [Thread Safety](#thread-safety)
-- [Best Practices](#best-practices)
-- [Resources](#resources)
+
 
 ## Introduction
 
